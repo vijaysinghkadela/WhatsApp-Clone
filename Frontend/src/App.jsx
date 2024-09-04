@@ -2,7 +2,8 @@ import React from 'react'
 
 const App = () => {
   return (
-    <div>Whatsapp Clone</div>
+    <div>whatsapp clone
+    </div>
   )
 }
 
