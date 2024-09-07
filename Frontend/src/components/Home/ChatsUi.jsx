@@ -5,6 +5,7 @@ const ChatsUi = () => {
   return (
     <>
       <div>ChatsUi</div>
+      <Footer />
     </>
   );
 };
