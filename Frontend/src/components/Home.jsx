@@ -1,5 +1,6 @@
 import React from "react";
 import Footer from "./UiItems/Footer";
+import ChatsUi from "./Home/ChatsUi";
 
 const Home = () => {
   return (
@@ -7,7 +8,7 @@ const Home = () => {
     <div>
       home
     </div>
-      <Footer />
+    <ChatsUi />
     </>
   );
 };
