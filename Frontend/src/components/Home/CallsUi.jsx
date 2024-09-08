@@ -1,8 +1,14 @@
 import React from 'react'
+import Footer from '../UiItems/Footer'
+import Header from '../UiItems/Header'
 
 const CallsUi = () => {
   return (
-    <div>CallsUi</div>
+    <div>
+      <Header />
+      CallsUi
+      <Footer />
+    </div>
   )
 }
 
