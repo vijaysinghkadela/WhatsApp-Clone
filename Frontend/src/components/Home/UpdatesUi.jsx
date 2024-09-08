@@ -1,9 +1,12 @@
 import React from 'react'
 import Footer from '../UiItems/Footer'
+import Header from '../UiItems/Header'
 
 const UpdatesUi = () => {
   return (
-    <div>UpdatesUi
+    <div>
+      <Header />
+      UpdatesUi
       <Footer />
     </div>
   )

@@ -5,9 +5,6 @@ import ChatsUi from "./Home/ChatsUi";
 const Home = () => {
   return (
     <>
-    <div>
-      home
-    </div>
     <ChatsUi />
     </>
   );
